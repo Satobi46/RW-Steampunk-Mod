@@ -1,5 +1,5 @@
-# rw-rsteampunk-mod
-Rise of The Steampunk (Rusted Warfare)
+# Rise of The Steampunk
+Rise of The Steampunk (Rusted Warfare Mod)
 
 
 A total conversion mod for Rusted Warfare
