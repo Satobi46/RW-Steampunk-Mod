@@ -2,5 +2,7 @@
 title: Rise of Steampunk
 description: Steam engine and Thomas the Panzer Tank!
 
+Mod By: jinxkobi and satobi
+
 
 
