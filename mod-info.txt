@@ -1,8 +1,6 @@
 [mod]
 title: Rise of Steampunk
-description: Steam engine and Thomas the Panzer Tank!
-
-Mod By: jinxkobi and satobi
+description: Steam engine and Thomas the Panzer Tank! A total conversion mod for Rusted Warfare By: jinxkobi and Satobi ~
 
 
 
