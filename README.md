@@ -1,4 +1,4 @@
-# Rise of The Steampunk
+# Rise of The Steampunk By: Jinxkobi
 Rise of The Steampunk (Rusted Warfare Mod)
 
 
