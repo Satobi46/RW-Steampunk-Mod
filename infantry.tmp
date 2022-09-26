@@ -1,4 +1,51 @@
 [core]
 strictLevel: 1
 
+[core]
+tags: infantry
+class: CustomUnitMetadata
+mass: 200
+radius: 10
+displayRadius: 10
+softCollisionOnAll: 3
+isBio: false
+isBug: false
+numBitsOnDeath: 0
+explodeOnDeath: false
+fogOfWarSightRange: 10
+explodeOnDeathGroundCollosion: false
+effectOnDeath: CUSTOM:blood*10
 
+[graphics]
+disableLowHpFire: true
+disableLowHpSmoke: true
+teamColorsOnTurret: true
+lock_body_rotation_with_main_turret: true
+movementEffectRate: 15
+dustEffect: true
+
+[attack]
+isFixedFiring: true
+
+[turret_1]
+canAttack: false
+invisible: true
+x: 0
+y: -3
+idleDir: 0
+turnSpeed: 50
+recoilOffset: 0
+recoilOutTime: 10
+recoilReturnTime: 14
+
+[effect_blood]
+attachedToUnit: false
+life: 80
+physics: true
+scaleFrom: 1
+scaleTo: 0.2
+xSpeedRelativeRandom: 0.9
+ySpeedRelativeRandom: 0.9
+hSpeed: 0.5
+image: ROOT:images\blood.png
+drawUnderUnits:false
