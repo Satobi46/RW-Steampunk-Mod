@@ -14,7 +14,7 @@ numBitsOnDeath: 0
 explodeOnDeath: false
 fogOfWarSightRange: 10
 explodeOnDeathGroundCollosion: false
-effectOnDeath: CUSTOM:blood*10
+effectOnDeath: CUSTOM:blood*15
 
 [graphics]
 disableLowHpFire: true
@@ -40,12 +40,12 @@ recoilReturnTime: 14
 
 [effect_blood]
 attachedToUnit: false
-life: 80
+life: 150
 physics: true
-scaleFrom: 1
-scaleTo: 0.2
-xSpeedRelativeRandom: 0.9
-ySpeedRelativeRandom: 0.9
-hSpeed: 0.5
+scaleFrom: 3
+scaleTo: 3
+xSpeedRelativeRandom: 0.5
+ySpeedRelativeRandom: 0.5
+hSpeed: 1.5
 image: ROOT:images\blood.png
 drawUnderUnits:false

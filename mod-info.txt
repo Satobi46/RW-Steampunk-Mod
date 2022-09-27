@@ -2,5 +2,9 @@
 title: Rise of Steampunk
 description: Steam engine and Thomas the Panzer Tank! A total conversion mod for Rusted Warfare By: Jinxkobi and Satobi ~
 
+PLEASE NOTE:
+> do not repost the mod from other sources without permission from the owners.
+> do not publish or distribute a copy of art assets, sprite or textures from this mod without permission from the owners.
 
+If you want permissions you can do so by contacting us from our discord accounts. 
 
