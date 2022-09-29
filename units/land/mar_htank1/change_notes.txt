@@ -1,0 +1,3 @@
+Satobi: fixed and resize base sprite so It won't have that crazy offset when the barrel try to aim and shoot.
+Satobi: resprited projectile.
+Satobi: yOffsetRelative: 20 of the trail to match the wheels position. 
