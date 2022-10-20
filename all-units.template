@@ -1,0 +1,14 @@
+[core]
+strictLevel: 0
+
+[global_resource_steam]
+iconImage: ROOT:image.png
+displayName: Steam
+hidden:false
+priority: 1
+displayColor: #f6f7f6
+displayWhenZero: true
+iconImageUseInText: true
+
+
+
