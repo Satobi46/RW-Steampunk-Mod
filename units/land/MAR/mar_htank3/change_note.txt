@@ -1,0 +1,3 @@
+satobi: fixed Barrel and Turret Base clunky aim turn.
+satobi: Resprited projectile.
+satobi: Resprited tank trail.

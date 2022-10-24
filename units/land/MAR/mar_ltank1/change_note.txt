@@ -1,0 +1,3 @@
+satobi: animation_moving_speed: 3
+satobi: animation_moving_pingPong: true
+satobi: Resprited projectile.
