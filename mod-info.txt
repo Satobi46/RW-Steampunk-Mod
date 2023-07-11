@@ -1,8 +1,17 @@
 [mod]
-title: "Rise of Steampunk - BETA" by: Jinxkobi
+title: "Rise of Steampunk - CURRENT TANKS SANDBOX ONLY (NO MODULES)" by: Jinxkobi and Satobi
 description: Steam engine and Thomas the Panzer Tank! A total conversion mod for Rusted Warfare By: Jinxkobi and Satobi ~
 
 minVersion: 1.15p9
+
+
+
+
+
+
+
+
+
 
 PLEASE NOTE:
 > do not repost the mod from other sources without permission from the owners.
